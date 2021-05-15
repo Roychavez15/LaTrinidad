@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaTrinidad.Web", "LaTrinidad.Web\LaTrinidad.Web.csproj", "{52E945B3-51F7-4A51-86E1-0ED66DE03462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaTrinidad.Common", "LaTrinidad.Common\LaTrinidad.Common.csproj", "{9522652C-3372-4C6A-BC90-2B06E649948F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E945B3-51F7-4A51-86E1-0ED66DE03462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E945B3-51F7-4A51-86E1-0ED66DE03462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E945B3-51F7-4A51-86E1-0ED66DE03462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E945B3-51F7-4A51-86E1-0ED66DE03462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9522652C-3372-4C6A-BC90-2B06E649948F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9522652C-3372-4C6A-BC90-2B06E649948F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9522652C-3372-4C6A-BC90-2B06E649948F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9522652C-3372-4C6A-BC90-2B06E649948F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CAC013-5B64-43F0-A86E-1C4F19B0D638}
+	EndGlobalSection
+EndGlobal
